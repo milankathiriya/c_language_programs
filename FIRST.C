@@ -8,7 +8,7 @@ main()
   char a = 'T', b = 'O', c = 'Y';
   clrscr();
 
-  printf("%c%c%c", a, b, c);
+  printf("%c - %c - %c", a, b, c);
 
   getch();
 }
